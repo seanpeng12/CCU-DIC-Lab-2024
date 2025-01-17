@@ -1,3 +1,3 @@
-download Icarus Verilog
-iverilog -o TEST_MUL TEST_MUL.v
-gtkwave .
+* download Icarus Verilog
+* iverilog -o TEST_MUL TEST_MUL.v
+* gtkwave .
